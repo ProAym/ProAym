@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing my internship at Softalya <br>I am a front-end developer <br>I am learning React and Tailwindcss<br>I am a funny person (:
+ <br>I am a front-end developer <br>I am learning React and Tailwindcss<br>I am a funny person (:
 
 
 ## 🌐 Socials:
