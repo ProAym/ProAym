@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> I am a front-end developer<br> I am professional at React and TailwindCss<br> I enjoy creating interactive web interfaces<br> I am a funny person (:
+<br> I am a software Engineer<br> (:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aymdevop/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-el-khader-221138195/) 
