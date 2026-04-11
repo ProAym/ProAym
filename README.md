@@ -1,5 +1,23 @@
-# 💫 About Me:
-<br> I am a software Engineer<br> (:
+## 👋 Hey, I'm Aymane
+
+🎓 Computer Engineering Graduate  
+💻 Front-end Developer (React & Tailwind)  
+🤖 Passionate about AI & Machine Learning  
+
+I enjoy building real-world projects that combine **clean UI** with **intelligent systems**.  
+Currently exploring how AI can solve meaningful problems, especially in areas like **mental health** and **data-driven insights**.
+
+🚀 What I'm working on:
+- AI-powered applications  
+- Machine Learning models & data analysis  
+- Modern web apps with React  
+
+🧠 Interests:
+- Artificial Intelligence  
+- Data Science  
+- Full-stack Development  
+
+📫 Reach me: *[your email or LinkedIn]*  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aymdevop/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-el-khader-221138195/) 
