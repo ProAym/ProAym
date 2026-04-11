@@ -17,7 +17,7 @@ Currently exploring how AI can solve meaningful problems, especially in areas li
 - Data Science  
 - Full-stack Development  
 
-📫 Reach me: *[your email or LinkedIn]*  
+📫 Reach me: 👇 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aymdevop/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-el-khader-221138195/) 
