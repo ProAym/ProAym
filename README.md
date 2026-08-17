@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aymane EL KHADER
 
-### 🎓 Computer Engineer | AI & Machine Learning Enthusiast | Front-end Developer
+### 🎓 Computer Engineer | AI Enthusiast | Front-end Developer
 
 I’m a Computer Engineering graduate passionate about bridging the gap between **complex intelligent systems** and **intuitive user experiences**. I specialize in building real-world applications that leverage AI to solve meaningful problems, particularly in **mental health** and **data-driven decision-making**.
 
